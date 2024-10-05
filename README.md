@@ -1,4 +1,4 @@
 # alexandercheng.github.io
 
-###Education
+### Education
 Bsc Mathematics, MSc AI & ML
